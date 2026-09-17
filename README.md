@@ -92,5 +92,3 @@ spring.jpa.hibernate.ddl-auto=update
 MIT — ver LICENSE si aplica.
 
 ---
-
-Si quieres, puedo añadir badges, ejemplo de application.properties, o un archivo LICENSE. Indícame qué prefieres.
