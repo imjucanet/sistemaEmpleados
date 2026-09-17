@@ -75,12 +75,6 @@ spring.jpa.hibernate.ddl-auto=update
   - componentes/style.jsp (estilos globales)
   - agregarEmpleado.jsp (formulario)
 
-## Notas importantes
-
-- Lombok está habilitado; asegúrate de tener el plugin de Lombok en tu IDE o compilar con Maven (la configuración de annotationProcessorPaths está en el pom.xml).
-- Si las URLs en JSPs no funcionan, usar `<c:url value="/ruta"/>` o `${pageContext.request.contextPath}` para generar rutas relativas al contexto.
-- El botón de menú responsive y estilos del formulario se encuentran en `style.jsp`.
-
 ## Contribuir
 
 1. Crear un fork
